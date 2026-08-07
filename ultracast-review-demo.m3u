@@ -1,16 +1,17 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz"
+#EXTM3U x-tvg-url="https://thecatsizer-dev.github.io/ultracast-iptv-privacy/review/ultracast-review-epg.xml"
 
-#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" tvg-country="FR" tvg-language="fr" group-title="Live TV",France 24
-https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="ultracast.demo.blue" tvg-name="UltraCast Demo Blue" tvg-country="FR" tvg-language="fr" group-title="Live TV",UltraCast Demo Live 1
+https://thecatsizer-dev.github.io/ultracast-iptv-privacy/review/stream-blue/index.m3u8
 
-#EXTINF:-1 tvg-id="DW.de" tvg-name="DW English" tvg-language="en" group-title="Live TV",DW English
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+#EXTINF:-1 tvg-id="ultracast.demo.orange" tvg-name="UltraCast Demo Orange" tvg-country="FR" tvg-language="fr" group-title="Live TV",UltraCast Demo Live 2
+https://thecatsizer-dev.github.io/ultracast-iptv-privacy/review/stream-orange/index.m3u8
 
-#EXTINF:-1 tvg-type="movie" group-title="Movies",Big Buck Bunny (2008)
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-type="movie" group-title="Movies",UltraCast Review Film (2026)
+https://thecatsizer-dev.github.io/ultracast-iptv-privacy/review/stream-blue/index.m3u8
 
-#EXTINF:-1 tvg-type="series" group-title="Series",UltraCast Demo S01E01
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-type="series" group-title="Series",UltraCast Review Series S01E01
+https://thecatsizer-dev.github.io/ultracast-iptv-privacy/review/stream-blue/index.m3u8
 
-#EXTINF:-1 tvg-type="series" group-title="Series",UltraCast Demo S01E02
-https://test-streams.mux.dev/test_001/stream.m3u8
+#EXTINF:-1 tvg-type="series" group-title="Series",UltraCast Review Series S01E02
+https://thecatsizer-dev.github.io/ultracast-iptv-privacy/review/stream-orange/index.m3u8
+
