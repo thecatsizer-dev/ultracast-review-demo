@@ -1,7 +1,16 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz"
 
-#EXTINF:-1 group-title="UltraCast Review Demo",Apple HLS BipBop Test
-https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" tvg-country="FR" tvg-language="fr" group-title="Live TV",France 24
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 
-#EXTINF:-1 group-title="UltraCast Review Demo",Big Buck Bunny HLS Test
+#EXTINF:-1 tvg-id="DW.de" tvg-name="DW English" tvg-language="en" group-title="Live TV",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+
+#EXTINF:-1 tvg-type="movie" group-title="Movies",Big Buck Bunny (2008)
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-type="series" group-title="Series",UltraCast Demo S01E01
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-type="series" group-title="Series",UltraCast Demo S01E02
+https://test-streams.mux.dev/test_001/stream.m3u8
