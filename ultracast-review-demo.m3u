@@ -1,0 +1,16 @@
+#EXTM3U x-tvg-url="https://thecatsizer-dev.github.io/ultracast-iptv-privacy/ultracast-review-epg.xml"
+
+#EXTINF:-1 tvg-id="ultracast.demo.blue" tvg-name="UltraCast Demo Blue" tvg-country="FR" tvg-language="fr" group-title="Live TV",UltraCast Demo Live 1
+https://thecatsizer-dev.github.io/ultracast-iptv-privacy/ultracast-blue.m3u8
+
+#EXTINF:-1 tvg-id="ultracast.demo.orange" tvg-name="UltraCast Demo Orange" tvg-country="FR" tvg-language="fr" group-title="Live TV",UltraCast Demo Live 2
+https://thecatsizer-dev.github.io/ultracast-iptv-privacy/ultracast-orange.m3u8
+
+#EXTINF:-1 tvg-type="movie" group-title="Movies",UltraCast Review Film (2026)
+https://thecatsizer-dev.github.io/ultracast-iptv-privacy/ultracast-blue.m3u8
+
+#EXTINF:-1 tvg-type="series" group-title="Series",UltraCast Review Series S01E01
+https://thecatsizer-dev.github.io/ultracast-iptv-privacy/ultracast-blue.m3u8
+
+#EXTINF:-1 tvg-type="series" group-title="Series",UltraCast Review Series S01E02
+https://thecatsizer-dev.github.io/ultracast-iptv-privacy/ultracast-orange.m3u8
