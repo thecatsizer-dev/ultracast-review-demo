@@ -1,0 +1,139 @@
+#EXTM3U
+
+# UltraCast IPTV Player - Store screenshots demo catalog
+# Every name is fictional. The .invalid domain is reserved and non-routable.
+# This file intentionally contains no real channel, movie, series, logo or EPG.
+
+# --- LIVE / ACTUALITES ---
+#EXTINF:-1 tvg-id="ultracast-live-01" tvg-name="UltraCast Live 01" tvg-country="FR" tvg-language="fr" group-title="Démo Live • Actualités",UltraCast Live 01
+https://demo.invalid/ultracast/live/01.m3u8
+#EXTINF:-1 tvg-id="ultracast-live-02" tvg-name="UltraCast Live 02" tvg-country="FR" tvg-language="fr" group-title="Démo Live • Actualités",UltraCast Live 02
+https://demo.invalid/ultracast/live/02.m3u8
+#EXTINF:-1 tvg-id="ultracast-live-03" tvg-name="UltraCast Live 03" tvg-country="FR" tvg-language="fr" group-title="Démo Live • Actualités",UltraCast Live 03
+https://demo.invalid/ultracast/live/03.m3u8
+#EXTINF:-1 tvg-id="ultracast-live-04" tvg-name="UltraCast Live 04" tvg-country="FR" tvg-language="fr" group-title="Démo Live • Actualités",UltraCast Live 04
+https://demo.invalid/ultracast/live/04.m3u8
+#EXTINF:-1 tvg-id="ultracast-live-05" tvg-name="UltraCast Live 05" tvg-country="FR" tvg-language="fr" group-title="Démo Live • Actualités",UltraCast Live 05
+https://demo.invalid/ultracast/live/05.m3u8
+
+# --- LIVE / SPORT ---
+#EXTINF:-1 tvg-id="ultracast-sport-01" tvg-name="UltraCast Sport 01" tvg-language="fr" group-title="Démo Live • Sports",UltraCast Sport 01
+https://demo.invalid/ultracast/live/sport-01.m3u8
+#EXTINF:-1 tvg-id="ultracast-sport-02" tvg-name="UltraCast Sport 02" tvg-language="fr" group-title="Démo Live • Sports",UltraCast Sport 02
+https://demo.invalid/ultracast/live/sport-02.m3u8
+#EXTINF:-1 tvg-id="ultracast-sport-03" tvg-name="UltraCast Sport 03" tvg-language="fr" group-title="Démo Live • Sports",UltraCast Sport 03
+https://demo.invalid/ultracast/live/sport-03.m3u8
+#EXTINF:-1 tvg-id="ultracast-sport-04" tvg-name="UltraCast Sport 04" tvg-language="fr" group-title="Démo Live • Sports",UltraCast Sport 04
+https://demo.invalid/ultracast/live/sport-04.m3u8
+
+# --- LIVE / MUSIQUE ---
+#EXTINF:-1 tvg-id="ultracast-music-01" tvg-name="UltraCast Music 01" tvg-language="fr" group-title="Démo Live • Music",UltraCast Music 01
+https://demo.invalid/ultracast/live/music-01.m3u8
+#EXTINF:-1 tvg-id="ultracast-music-02" tvg-name="UltraCast Music 02" tvg-language="fr" group-title="Démo Live • Music",UltraCast Music 02
+https://demo.invalid/ultracast/live/music-02.m3u8
+#EXTINF:-1 tvg-id="ultracast-music-03" tvg-name="UltraCast Music 03" tvg-language="fr" group-title="Démo Live • Music",UltraCast Music 03
+https://demo.invalid/ultracast/live/music-03.m3u8
+#EXTINF:-1 tvg-id="ultracast-music-04" tvg-name="UltraCast Music 04" tvg-language="fr" group-title="Démo Live • Music",UltraCast Music 04
+https://demo.invalid/ultracast/live/music-04.m3u8
+
+# --- LIVE / JEUNESSE ---
+#EXTINF:-1 tvg-id="ultracast-kids-01" tvg-name="UltraCast Kids 01" tvg-language="fr" group-title="Démo Live • Kids",UltraCast Kids 01
+https://demo.invalid/ultracast/live/kids-01.m3u8
+#EXTINF:-1 tvg-id="ultracast-kids-02" tvg-name="UltraCast Kids 02" tvg-language="fr" group-title="Démo Live • Kids",UltraCast Kids 02
+https://demo.invalid/ultracast/live/kids-02.m3u8
+#EXTINF:-1 tvg-id="ultracast-kids-03" tvg-name="UltraCast Kids 03" tvg-language="fr" group-title="Démo Live • Kids",UltraCast Kids 03
+https://demo.invalid/ultracast/live/kids-03.m3u8
+#EXTINF:-1 tvg-id="ultracast-kids-04" tvg-name="UltraCast Kids 04" tvg-language="fr" group-title="Démo Live • Kids",UltraCast Kids 04
+https://demo.invalid/ultracast/live/kids-04.m3u8
+
+# --- LIVE / DOCUMENTAIRES ---
+#EXTINF:-1 tvg-id="ultracast-doc-01" tvg-name="UltraCast Découverte 01" tvg-language="fr" group-title="Démo Live • Documentary",UltraCast Découverte 01
+https://demo.invalid/ultracast/live/discovery-01.m3u8
+#EXTINF:-1 tvg-id="ultracast-doc-02" tvg-name="UltraCast Découverte 02" tvg-language="fr" group-title="Démo Live • Documentary",UltraCast Découverte 02
+https://demo.invalid/ultracast/live/discovery-02.m3u8
+#EXTINF:-1 tvg-id="ultracast-doc-03" tvg-name="UltraCast Découverte 03" tvg-language="fr" group-title="Démo Live • Documentary",UltraCast Découverte 03
+https://demo.invalid/ultracast/live/discovery-03.m3u8
+#EXTINF:-1 tvg-id="ultracast-doc-04" tvg-name="UltraCast Découverte 04" tvg-language="fr" group-title="Démo Live • Documentary",UltraCast Découverte 04
+https://demo.invalid/ultracast/live/discovery-04.m3u8
+
+# --- VOD / NOUVEAUTES ---
+#EXTINF:-1 tvg-type="movie" group-title="VOD • Nouveautés",UltraCast Film 01 — Horizon
+https://demo.invalid/ultracast/vod/film-01.mp4
+#EXTINF:-1 tvg-type="movie" group-title="VOD • Nouveautés",UltraCast Film 02 — Lumière
+https://demo.invalid/ultracast/vod/film-02.mp4
+#EXTINF:-1 tvg-type="movie" group-title="VOD • Nouveautés",UltraCast Film 03 — Latitude
+https://demo.invalid/ultracast/vod/film-03.mp4
+#EXTINF:-1 tvg-type="movie" group-title="VOD • Nouveautés",UltraCast Film 04 — Évasion
+https://demo.invalid/ultracast/vod/film-04.mp4
+#EXTINF:-1 tvg-type="movie" group-title="VOD • Nouveautés",UltraCast Film 05 — Nouvelle Vague
+https://demo.invalid/ultracast/vod/film-05.mp4
+
+# --- FILMS / FICTION ---
+#EXTINF:-1 tvg-type="movie" group-title="Films • Fiction",UltraCast Film 06 — Neon City
+https://demo.invalid/ultracast/movies/film-06.mp4
+#EXTINF:-1 tvg-type="movie" group-title="Films • Fiction",UltraCast Film 07 — Orbite
+https://demo.invalid/ultracast/movies/film-07.mp4
+#EXTINF:-1 tvg-type="movie" group-title="Films • Fiction",UltraCast Film 08 — Point Zéro
+https://demo.invalid/ultracast/movies/film-08.mp4
+#EXTINF:-1 tvg-type="movie" group-title="Films • Fiction",UltraCast Film 09 — Signal
+https://demo.invalid/ultracast/movies/film-09.mp4
+#EXTINF:-1 tvg-type="movie" group-title="Films • Fiction",UltraCast Film 10 — Parallèle
+https://demo.invalid/ultracast/movies/film-10.mp4
+
+# --- FILMS / AVENTURE ---
+#EXTINF:-1 tvg-type="movie" group-title="Films • Aventure",UltraCast Film 11 — Grand Nord
+https://demo.invalid/ultracast/movies/film-11.mp4
+#EXTINF:-1 tvg-type="movie" group-title="Films • Aventure",UltraCast Film 12 — Rivages
+https://demo.invalid/ultracast/movies/film-12.mp4
+#EXTINF:-1 tvg-type="movie" group-title="Films • Aventure",UltraCast Film 13 — Altitude
+https://demo.invalid/ultracast/movies/film-13.mp4
+#EXTINF:-1 tvg-type="movie" group-title="Films • Aventure",UltraCast Film 14 — Odyssée
+https://demo.invalid/ultracast/movies/film-14.mp4
+#EXTINF:-1 tvg-type="movie" group-title="Films • Aventure",UltraCast Film 15 — Cap Sud
+https://demo.invalid/ultracast/movies/film-15.mp4
+
+# --- SERIES / ULTRACAST ORIGINALS ---
+#EXTINF:-1 tvg-type="series" group-title="Séries • UltraCast Originals",UltraCast Stories S01E01 — Le départ
+https://demo.invalid/ultracast/series/stories/s01e01.mp4
+#EXTINF:-1 tvg-type="series" group-title="Séries • UltraCast Originals",UltraCast Stories S01E02 — La route
+https://demo.invalid/ultracast/series/stories/s01e02.mp4
+#EXTINF:-1 tvg-type="series" group-title="Séries • UltraCast Originals",UltraCast Stories S01E03 — L'arrivée
+https://demo.invalid/ultracast/series/stories/s01e03.mp4
+#EXTINF:-1 tvg-type="series" group-title="Séries • UltraCast Originals",UltraCast District S01E01 — Premier signal
+https://demo.invalid/ultracast/series/district/s01e01.mp4
+#EXTINF:-1 tvg-type="series" group-title="Séries • UltraCast Originals",UltraCast District S01E02 — Hors réseau
+https://demo.invalid/ultracast/series/district/s01e02.mp4
+#EXTINF:-1 tvg-type="series" group-title="Séries • UltraCast Originals",UltraCast District S01E03 — Connexion
+https://demo.invalid/ultracast/series/district/s01e03.mp4
+#EXTINF:-1 tvg-type="series" group-title="Séries • UltraCast Originals",UltraCast Horizon S01E01 — Aube
+https://demo.invalid/ultracast/series/horizon/s01e01.mp4
+#EXTINF:-1 tvg-type="series" group-title="Séries • UltraCast Originals",UltraCast Horizon S01E02 — Plein jour
+https://demo.invalid/ultracast/series/horizon/s01e02.mp4
+#EXTINF:-1 tvg-type="series" group-title="Séries • UltraCast Originals",UltraCast Horizon S01E03 — Crépuscule
+https://demo.invalid/ultracast/series/horizon/s01e03.mp4
+
+# --- SERIES / DECOUVERTE ---
+#EXTINF:-1 tvg-type="series" group-title="Séries • Découverte",UltraCast Nature S01E01 — Océans
+https://demo.invalid/ultracast/series/nature/s01e01.mp4
+#EXTINF:-1 tvg-type="series" group-title="Séries • Découverte",UltraCast Nature S01E02 — Sommets
+https://demo.invalid/ultracast/series/nature/s01e02.mp4
+#EXTINF:-1 tvg-type="series" group-title="Séries • Découverte",UltraCast Nature S01E03 — Déserts
+https://demo.invalid/ultracast/series/nature/s01e03.mp4
+#EXTINF:-1 tvg-type="series" group-title="Séries • Découverte",UltraCast Voyage S01E01 — Escale 1
+https://demo.invalid/ultracast/series/voyage/s01e01.mp4
+#EXTINF:-1 tvg-type="series" group-title="Séries • Découverte",UltraCast Voyage S01E02 — Escale 2
+https://demo.invalid/ultracast/series/voyage/s01e02.mp4
+#EXTINF:-1 tvg-type="series" group-title="Séries • Découverte",UltraCast Voyage S01E03 — Escale 3
+https://demo.invalid/ultracast/series/voyage/s01e03.mp4
+#EXTINF:-1 tvg-type="series" group-title="Séries • Découverte",UltraCast Atelier S01E01 — Le concept
+https://demo.invalid/ultracast/series/atelier/s01e01.mp4
+#EXTINF:-1 tvg-type="series" group-title="Séries • Découverte",UltraCast Atelier S01E02 — La création
+https://demo.invalid/ultracast/series/atelier/s01e02.mp4
+#EXTINF:-1 tvg-type="series" group-title="Séries • Découverte",UltraCast Atelier S01E03 — Le résultat
+https://demo.invalid/ultracast/series/atelier/s01e03.mp4
+#EXTINF:-1 tvg-type="series" group-title="Séries • Découverte",UltraCast Planète S01E01 — Monde bleu
+https://demo.invalid/ultracast/series/planet/s01e01.mp4
+#EXTINF:-1 tvg-type="series" group-title="Séries • Découverte",UltraCast Planète S01E02 — Monde vert
+https://demo.invalid/ultracast/series/planet/s01e02.mp4
+#EXTINF:-1 tvg-type="series" group-title="Séries • Découverte",UltraCast Planète S01E03 — Monde rouge
+https://demo.invalid/ultracast/series/planet/s01e03.mp4
