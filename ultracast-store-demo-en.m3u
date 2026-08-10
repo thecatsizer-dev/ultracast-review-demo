@@ -1,0 +1,200 @@
+#EXTM3U
+
+# UltraCast IPTV Player — English store screenshot demo catalog
+# All channel names, movie titles, series titles, artwork and test media are original UltraCast creations.
+# Four clearly identified channels use 4-second fast-start UltraCast MP4 test loops for MultiView screenshots.
+# Every other media URL stays on the reserved .invalid domain to prevent accidental third-party playback.
+
+# LIVE — NEWS
+#EXTINF:-1 tvg-id="uc-news-01" tvg-name="UltraCast News One" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/news.png" tvg-language="en" group-title="Live • News",UltraCast News One
+https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/ultracast-multiview-news-4s.mp4
+#EXTINF:-1 tvg-id="uc-news-02" tvg-name="UltraCast News Now" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/news.png" tvg-language="en" group-title="Live • News",UltraCast News Now
+https://demo.invalid/live/news-now.m3u8
+#EXTINF:-1 tvg-id="uc-news-03" tvg-name="UltraCast World Desk" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/news.png" tvg-language="en" group-title="Live • News",UltraCast World Desk
+https://demo.invalid/live/world-desk.m3u8
+#EXTINF:-1 tvg-id="uc-news-04" tvg-name="UltraCast Metro News" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/news.png" tvg-language="en" group-title="Live • News",UltraCast Metro News
+https://demo.invalid/live/metro-news.m3u8
+#EXTINF:-1 tvg-id="uc-news-05" tvg-name="UltraCast Morning" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/news.png" tvg-language="en" group-title="Live • News",UltraCast Morning
+https://demo.invalid/live/morning.m3u8
+#EXTINF:-1 tvg-id="uc-news-06" tvg-name="UltraCast Evening" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/news.png" tvg-language="en" group-title="Live • News",UltraCast Evening
+https://demo.invalid/live/evening.m3u8
+
+# LIVE — SPORTS
+#EXTINF:-1 tvg-id="uc-sports-01" tvg-name="UltraCast Arena" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/sports.png" tvg-language="en" group-title="Live • Sports",UltraCast Arena
+https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/ultracast-multiview-sports-4s.mp4
+#EXTINF:-1 tvg-id="uc-sports-02" tvg-name="UltraCast Stadium" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/sports.png" tvg-language="en" group-title="Live • Sports",UltraCast Stadium
+https://demo.invalid/live/stadium.m3u8
+#EXTINF:-1 tvg-id="uc-sports-03" tvg-name="UltraCast Motion" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/sports.png" tvg-language="en" group-title="Live • Sports",UltraCast Motion
+https://demo.invalid/live/motion.m3u8
+#EXTINF:-1 tvg-id="uc-sports-04" tvg-name="UltraCast Racing" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/sports.png" tvg-language="en" group-title="Live • Sports",UltraCast Racing
+https://demo.invalid/live/racing.m3u8
+#EXTINF:-1 tvg-id="uc-sports-05" tvg-name="UltraCast Outdoor" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/sports.png" tvg-language="en" group-title="Live • Sports",UltraCast Outdoor
+https://demo.invalid/live/outdoor.m3u8
+#EXTINF:-1 tvg-id="uc-sports-06" tvg-name="UltraCast Highlights" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/sports.png" tvg-language="en" group-title="Live • Sports",UltraCast Highlights
+https://demo.invalid/live/highlights.m3u8
+
+# LIVE — NATURE
+#EXTINF:-1 tvg-id="uc-nature-01" tvg-name="UltraCast Earth" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/nature.png" tvg-language="en" group-title="Live • Documentary",UltraCast Earth
+https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/ultracast-multiview-nature-4s.mp4
+#EXTINF:-1 tvg-id="uc-nature-02" tvg-name="UltraCast Ocean" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/nature.png" tvg-language="en" group-title="Live • Documentary",UltraCast Ocean
+https://demo.invalid/live/ocean.m3u8
+#EXTINF:-1 tvg-id="uc-nature-03" tvg-name="UltraCast Wild" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/nature.png" tvg-language="en" group-title="Live • Documentary",UltraCast Wild
+https://demo.invalid/live/wild.m3u8
+#EXTINF:-1 tvg-id="uc-nature-04" tvg-name="UltraCast Horizon" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/nature.png" tvg-language="en" group-title="Live • Documentary",UltraCast Horizon
+https://demo.invalid/live/horizon.m3u8
+#EXTINF:-1 tvg-id="uc-nature-05" tvg-name="UltraCast Explore" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/nature.png" tvg-language="en" group-title="Live • Documentary",UltraCast Explore
+https://demo.invalid/live/explore.m3u8
+#EXTINF:-1 tvg-id="uc-nature-06" tvg-name="UltraCast Planet" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/nature.png" tvg-language="en" group-title="Live • Documentary",UltraCast Planet
+https://demo.invalid/live/planet.m3u8
+
+# LIVE — MUSIC
+#EXTINF:-1 tvg-id="uc-music-01" tvg-name="UltraCast Pulse" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/music.png" tvg-language="en" group-title="Live • Music",UltraCast Pulse
+https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/ultracast-multiview-music-4s.mp4
+#EXTINF:-1 tvg-id="uc-music-02" tvg-name="UltraCast Beats" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/music.png" tvg-language="en" group-title="Live • Music",UltraCast Beats
+https://demo.invalid/live/beats.m3u8
+#EXTINF:-1 tvg-id="uc-music-03" tvg-name="UltraCast Lounge" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/music.png" tvg-language="en" group-title="Live • Music",UltraCast Lounge
+https://demo.invalid/live/lounge.m3u8
+#EXTINF:-1 tvg-id="uc-music-04" tvg-name="UltraCast Stage" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/music.png" tvg-language="en" group-title="Live • Music",UltraCast Stage
+https://demo.invalid/live/stage.m3u8
+#EXTINF:-1 tvg-id="uc-music-05" tvg-name="UltraCast Acoustic" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/music.png" tvg-language="en" group-title="Live • Music",UltraCast Acoustic
+https://demo.invalid/live/acoustic.m3u8
+#EXTINF:-1 tvg-id="uc-music-06" tvg-name="UltraCast Night Mix" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/music.png" tvg-language="en" group-title="Live • Music",UltraCast Night Mix
+https://demo.invalid/live/night-mix.m3u8
+
+# LIVE — KIDS
+#EXTINF:-1 tvg-id="uc-kids-01" tvg-name="UltraCast Junior" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/kids.png" tvg-language="en" group-title="Live • Kids",UltraCast Junior
+https://demo.invalid/live/junior.m3u8
+#EXTINF:-1 tvg-id="uc-kids-02" tvg-name="UltraCast Playtime" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/kids.png" tvg-language="en" group-title="Live • Kids",UltraCast Playtime
+https://demo.invalid/live/playtime.m3u8
+#EXTINF:-1 tvg-id="uc-kids-03" tvg-name="UltraCast Imagine" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/kids.png" tvg-language="en" group-title="Live • Kids",UltraCast Imagine
+https://demo.invalid/live/imagine.m3u8
+#EXTINF:-1 tvg-id="uc-kids-04" tvg-name="UltraCast Learning" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/kids.png" tvg-language="en" group-title="Live • Kids",UltraCast Learning
+https://demo.invalid/live/learning.m3u8
+
+# LIVE — CULTURE
+#EXTINF:-1 tvg-id="uc-culture-01" tvg-name="UltraCast Culture" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/culture.png" tvg-language="en" group-title="Live • Culture",UltraCast Culture
+https://demo.invalid/live/culture.m3u8
+#EXTINF:-1 tvg-id="uc-culture-02" tvg-name="UltraCast Studio" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/culture.png" tvg-language="en" group-title="Live • Culture",UltraCast Studio
+https://demo.invalid/live/studio.m3u8
+#EXTINF:-1 tvg-id="uc-culture-03" tvg-name="UltraCast Gallery" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/culture.png" tvg-language="en" group-title="Live • Culture",UltraCast Gallery
+https://demo.invalid/live/gallery.m3u8
+#EXTINF:-1 tvg-id="uc-culture-04" tvg-name="UltraCast Stories" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/culture.png" tvg-language="en" group-title="Live • Culture",UltraCast Stories
+https://demo.invalid/live/stories.m3u8
+
+# MOVIES — SCIENCE FICTION
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/movie-01.jpg" group-title="Movies • Science Fiction",Beyond the Blue
+https://demo.invalid/movies/beyond-the-blue.mp4
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/movie-02.jpg" group-title="Movies • Science Fiction",The Last Observatory
+https://demo.invalid/movies/the-last-observatory.mp4
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/movie-03.jpg" group-title="Movies • Science Fiction",Neon Courier
+https://demo.invalid/movies/neon-courier.mp4
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/movie-04.jpg" group-title="Movies • Science Fiction",White Horizon
+https://demo.invalid/movies/white-horizon.mp4
+
+# MOVIES — ADVENTURE
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/movie-05.jpg" group-title="Movies • Adventure",The Time Gate
+https://demo.invalid/movies/the-time-gate.mp4
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/movie-06.jpg" group-title="Movies • Adventure",Summit Rescue
+https://demo.invalid/movies/summit-rescue.mp4
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/movie-07.jpg" group-title="Movies • Adventure",Garden in Orbit
+https://demo.invalid/movies/garden-in-orbit.mp4
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/movie-08.jpg" group-title="Movies • Adventure",The Silent Lighthouse
+https://demo.invalid/movies/the-silent-lighthouse.mp4
+
+# MOVIES — FANTASY
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/movie-09.jpg" group-title="Movies • Fantasy",City Above the Clouds
+https://demo.invalid/movies/city-above-the-clouds.mp4
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/movie-10.jpg" group-title="Movies • Fantasy",The Luminous Trail
+https://demo.invalid/movies/the-luminous-trail.mp4
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/movie-11.jpg" group-title="Movies • Fantasy",Moonline Express
+https://demo.invalid/movies/moonline-express.mp4
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/movie-12.jpg" group-title="Movies • Fantasy",The Sunken Library
+https://demo.invalid/movies/the-sunken-library.mp4
+
+# MOVIES — MYSTERY
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/movie-13.jpg" group-title="Movies • Mystery",Eye of the Storm
+https://demo.invalid/movies/eye-of-the-storm.mp4
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/movie-14.jpg" group-title="Movies • Mystery",After Midnight
+https://demo.invalid/movies/after-midnight.mp4
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/movie-15.jpg" group-title="Movies • Mystery",Crystal Passage
+https://demo.invalid/movies/crystal-passage.mp4
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/movie-16.jpg" group-title="Movies • Mystery",First Light
+https://demo.invalid/movies/first-light.mp4
+
+# SERIES — ULTRACAST ORIGINALS
+#EXTINF:-1 tvg-type="series" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/series-01.jpg" group-title="Series • UltraCast Originals",Coastal Signal S01E01 — First Light
+https://demo.invalid/series/coastal-signal/s01e01.mp4
+#EXTINF:-1 tvg-type="series" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/series-01.jpg" group-title="Series • UltraCast Originals",Coastal Signal S01E02 — Rising Tide
+https://demo.invalid/series/coastal-signal/s01e02.mp4
+#EXTINF:-1 tvg-type="series" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/series-01.jpg" group-title="Series • UltraCast Originals",Coastal Signal S01E03 — Open Water
+https://demo.invalid/series/coastal-signal/s01e03.mp4
+#EXTINF:-1 tvg-type="series" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/series-02.jpg" group-title="Series • UltraCast Originals",Midnight Railway S01E01 — Departure
+https://demo.invalid/series/midnight-railway/s01e01.mp4
+#EXTINF:-1 tvg-type="series" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/series-02.jpg" group-title="Series • UltraCast Originals",Midnight Railway S01E02 — The Long Bridge
+https://demo.invalid/series/midnight-railway/s01e02.mp4
+#EXTINF:-1 tvg-type="series" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/series-02.jpg" group-title="Series • UltraCast Originals",Midnight Railway S01E03 — Last Stop
+https://demo.invalid/series/midnight-railway/s01e03.mp4
+#EXTINF:-1 tvg-type="series" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/series-03.jpg" group-title="Series • UltraCast Originals",Little Machines S01E01 — Wake Up
+https://demo.invalid/series/little-machines/s01e01.mp4
+#EXTINF:-1 tvg-type="series" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/series-03.jpg" group-title="Series • UltraCast Originals",Little Machines S01E02 — Workshop Day
+https://demo.invalid/series/little-machines/s01e02.mp4
+#EXTINF:-1 tvg-type="series" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/series-03.jpg" group-title="Series • UltraCast Originals",Little Machines S01E03 — The Big Build
+https://demo.invalid/series/little-machines/s01e03.mp4
+#EXTINF:-1 tvg-type="series" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/series-04.jpg" group-title="Series • UltraCast Originals",Islands in the Sky S01E01 — Above the Sea
+https://demo.invalid/series/islands-in-the-sky/s01e01.mp4
+#EXTINF:-1 tvg-type="series" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/series-04.jpg" group-title="Series • UltraCast Originals",Islands in the Sky S01E02 — Hidden Valley
+https://demo.invalid/series/islands-in-the-sky/s01e02.mp4
+#EXTINF:-1 tvg-type="series" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/series-04.jpg" group-title="Series • UltraCast Originals",Islands in the Sky S01E03 — New Wings
+https://demo.invalid/series/islands-in-the-sky/s01e03.mp4
+
+# SERIES — DISCOVERY
+#EXTINF:-1 tvg-type="series" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/series-05.jpg" group-title="Series • Discovery",Rooftop Gardens S01E01 — Seeds
+https://demo.invalid/series/rooftop-gardens/s01e01.mp4
+#EXTINF:-1 tvg-type="series" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/series-05.jpg" group-title="Series • Discovery",Rooftop Gardens S01E02 — Rain
+https://demo.invalid/series/rooftop-gardens/s01e02.mp4
+#EXTINF:-1 tvg-type="series" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/series-05.jpg" group-title="Series • Discovery",Rooftop Gardens S01E03 — Harvest
+https://demo.invalid/series/rooftop-gardens/s01e03.mp4
+#EXTINF:-1 tvg-type="series" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/series-06.jpg" group-title="Series • Discovery",Signals from the Stars S01E01 — Listening
+https://demo.invalid/series/signals-from-the-stars/s01e01.mp4
+#EXTINF:-1 tvg-type="series" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/series-06.jpg" group-title="Series • Discovery",Signals from the Stars S01E02 — The Pattern
+https://demo.invalid/series/signals-from-the-stars/s01e02.mp4
+#EXTINF:-1 tvg-type="series" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/series-06.jpg" group-title="Series • Discovery",Signals from the Stars S01E03 — Reply
+https://demo.invalid/series/signals-from-the-stars/s01e03.mp4
+#EXTINF:-1 tvg-type="series" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/series-07.jpg" group-title="Series • Discovery",Below the Ruins S01E01 — Descent
+https://demo.invalid/series/below-the-ruins/s01e01.mp4
+#EXTINF:-1 tvg-type="series" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/series-07.jpg" group-title="Series • Discovery",Below the Ruins S01E02 — The Chamber
+https://demo.invalid/series/below-the-ruins/s01e02.mp4
+#EXTINF:-1 tvg-type="series" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/series-07.jpg" group-title="Series • Discovery",Below the Ruins S01E03 — Surface
+https://demo.invalid/series/below-the-ruins/s01e03.mp4
+#EXTINF:-1 tvg-type="series" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/series-08.jpg" group-title="Series • Discovery",Future Forms S01E01 — A Blank Page
+https://demo.invalid/series/future-forms/s01e01.mp4
+#EXTINF:-1 tvg-type="series" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/series-08.jpg" group-title="Series • Discovery",Future Forms S01E02 — The Model
+https://demo.invalid/series/future-forms/s01e02.mp4
+#EXTINF:-1 tvg-type="series" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/series-08.jpg" group-title="Series • Discovery",Future Forms S01E03 — Open House
+https://demo.invalid/series/future-forms/s01e03.mp4
+
+# SERIES — NEW WORLDS
+#EXTINF:-1 tvg-type="series" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/series-09.jpg" group-title="Series • New Worlds",Sunfield S01E01 — Arrival
+https://demo.invalid/series/sunfield/s01e01.mp4
+#EXTINF:-1 tvg-type="series" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/series-09.jpg" group-title="Series • New Worlds",Sunfield S01E02 — Power On
+https://demo.invalid/series/sunfield/s01e02.mp4
+#EXTINF:-1 tvg-type="series" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/series-09.jpg" group-title="Series • New Worlds",Sunfield S01E03 — The First Night
+https://demo.invalid/series/sunfield/s01e03.mp4
+#EXTINF:-1 tvg-type="series" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/series-10.jpg" group-title="Series • New Worlds",Glow Caverns S01E01 — The Entrance
+https://demo.invalid/series/glow-caverns/s01e01.mp4
+#EXTINF:-1 tvg-type="series" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/series-10.jpg" group-title="Series • New Worlds",Glow Caverns S01E02 — Blue River
+https://demo.invalid/series/glow-caverns/s01e02.mp4
+#EXTINF:-1 tvg-type="series" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/series-10.jpg" group-title="Series • New Worlds",Glow Caverns S01E03 — Daylight
+https://demo.invalid/series/glow-caverns/s01e03.mp4
+#EXTINF:-1 tvg-type="series" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/series-11.jpg" group-title="Series • New Worlds",Greenhouse Table S01E01 — Fresh Start
+https://demo.invalid/series/greenhouse-table/s01e01.mp4
+#EXTINF:-1 tvg-type="series" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/series-11.jpg" group-title="Series • New Worlds",Greenhouse Table S01E02 — New Flavor
+https://demo.invalid/series/greenhouse-table/s01e02.mp4
+#EXTINF:-1 tvg-type="series" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/series-11.jpg" group-title="Series • New Worlds",Greenhouse Table S01E03 — Shared Table
+https://demo.invalid/series/greenhouse-table/s01e03.mp4
+#EXTINF:-1 tvg-type="series" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/series-12.jpg" group-title="Series • New Worlds",Northern Harbor S01E01 — Homecoming
+https://demo.invalid/series/northern-harbor/s01e01.mp4
+#EXTINF:-1 tvg-type="series" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/series-12.jpg" group-title="Series • New Worlds",Northern Harbor S01E02 — Winter Lights
+https://demo.invalid/series/northern-harbor/s01e02.mp4
+#EXTINF:-1 tvg-type="series" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/series-12.jpg" group-title="Series • New Worlds",Northern Harbor S01E03 — Open Sea
+https://demo.invalid/series/northern-harbor/s01e03.mp4
