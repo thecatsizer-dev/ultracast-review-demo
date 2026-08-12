@@ -23,11 +23,11 @@ https://demo.invalid/live/evening.m3u8
 #EXTINF:-1 tvg-id="uc-sports-01" tvg-name="UltraCast Arena" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/sports.png" tvg-language="en" group-title="Live • Sports",UltraCast Arena
 https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/ultracast-multiview-sports-4s.mp4
 #EXTINF:-1 tvg-id="uc-sports-02" tvg-name="UltraCast Stadium" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/sports.png" tvg-language="en" group-title="Live • Sports",UltraCast Stadium
-https://demo.invalid/live/stadium.m3u8
+https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/fictif%20match%20169-1.mp4
 #EXTINF:-1 tvg-id="uc-sports-03" tvg-name="UltraCast Motion" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/sports.png" tvg-language="en" group-title="Live • Sports",UltraCast Motion
-https://demo.invalid/live/motion.m3u8
+https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/foot%20fictif%202%20-2.mp4
 #EXTINF:-1 tvg-id="uc-sports-04" tvg-name="UltraCast Racing" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/sports.png" tvg-language="en" group-title="Live • Sports",UltraCast Racing
-https://demo.invalid/live/racing.m3u8
+https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/foot%20fictif%202%20-1.mp4
 #EXTINF:-1 tvg-id="uc-sports-05" tvg-name="UltraCast Outdoor" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/sports.png" tvg-language="en" group-title="Live • Sports",UltraCast Outdoor
 https://demo.invalid/live/outdoor.m3u8
 #EXTINF:-1 tvg-id="uc-sports-06" tvg-name="UltraCast Highlights" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/sports.png" tvg-language="en" group-title="Live • Sports",UltraCast Highlights
@@ -73,9 +73,9 @@ https://demo.invalid/live/learning.m3u8
 
 # LIVE — CULTURE
 #EXTINF:-1 tvg-id="uc-culture-01" tvg-name="UltraCast Culture" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/culture.png" tvg-language="en" group-title="Live • Culture",UltraCast Culture
-https://demo.invalid/live/culture.m3u8
+https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/Dog_stealing_sandwich_at_picnic_202608070850.mp4
 #EXTINF:-1 tvg-id="uc-culture-02" tvg-name="UltraCast Studio" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/culture.png" tvg-language="en" group-title="Live • Culture",UltraCast Studio
-https://demo.invalid/live/studio.m3u8
+https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/Astronauts_playing_Sudoku_in_space_202608040833.mp4
 #EXTINF:-1 tvg-id="uc-culture-03" tvg-name="UltraCast Gallery" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/culture.png" tvg-language="en" group-title="Live • Culture",UltraCast Gallery
 https://demo.invalid/live/gallery.m3u8
 #EXTINF:-1 tvg-id="uc-culture-04" tvg-name="UltraCast Stories" tvg-logo="https://raw.githubusercontent.com/thecatsizer-dev/ultracast-review-demo/main/culture.png" tvg-language="en" group-title="Live • Culture",UltraCast Stories
